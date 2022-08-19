@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelmegeed</h1>
 <h3 align="center">A passionate frontend developer from Egypt, Shifted my career from Mechanical Engineering to follow my passion and build something special</h3>
 
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed1095)](https://github.com/Mohammed1095/github-readme-stats)
+
 - 💬 Ask me about **react, JavaScript, HTML and Tailwind CSS**
 
 - 📫 How to reach me **mohamedabdelmageed1095@gmail.com**
